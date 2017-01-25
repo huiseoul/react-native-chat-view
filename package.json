@@ -1,0 +1,9 @@
+{
+  "name": "react-native-chat-view",
+  "version": "0.0.1",
+  "description": "ReactNativeChatView",
+  "main": "index.js",
+  "repository": "https://github.com/huiseoul/react-native-chat-view.git",
+  "author": "Huiseoul Engineering Team",
+  "license": "MIT"
+}
